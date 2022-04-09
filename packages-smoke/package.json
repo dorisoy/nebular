@@ -27,7 +27,7 @@
     "@nebular/theme": "^3.0.0",
     "core-js": "^2.5.7",
     "date-fns": "^1.29.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "rxjs": "6.5.1",
     "zone.js": "~0.9.0"
   },
